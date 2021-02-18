@@ -6,4 +6,4 @@ This repository contains the final report as well as the parallel code for the p
 Run:
 1. The parallel programs were compiled using the mpicc compiler
 2. The executable was submitted to Wentworth's super computer along with the number of nodes desired for that run
-3. Output and profile files were created in the current working directory. The output files contained the timings for that run. The profile files were taken out of the super computer onto a pc and sent into the paraprof program. From there, an image of the work distrobution was created.
+3. Output and profile files were created in the current working directory. The output files contained the timings for that run. The profile files were taken out of the super computer onto a pc and sent into the paraprof program. From there, an image of the work distribution was created.
